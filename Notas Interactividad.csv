@@ -1,1 +1,9 @@
-Semestre;Materia;NotaPrimero;Futbol;10Primero;Fundamentos de la imagen;7.7Primero;Introduccion al dibujo;6.5Primero;Grafica digital;8.3Primero;Historia del arte;7.9Primero;Comunicacion y lenguaje;7.8Primero;fundamentos de la administracion;7.7Primero;teoria multimedia y audiovisual;6.5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Semestre,Materia,Nota
+Primero,Futbol,10
+Primero,Fundamentos de la imagen,7.7
+Primero,Introduccion al dibujo,6.5
+Primero,Grafica digital,8.3
+Primero,Historia del arte,7.9
+Primero,Comunicacion y lenguaje,7.8
+Primero,fundamentos de la administracion,7.7
+Primero,teoria multimedia y audiovisual,6.5
